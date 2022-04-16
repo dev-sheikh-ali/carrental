@@ -1,3 +1,7 @@
+ 
+ 
+ 
+ 
  $(document).ready(function () {
 	 
  	$(".ts-sidebar-menu li a").each(function () {
