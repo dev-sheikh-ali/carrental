@@ -1,6 +1,7 @@
 ### How to install this pro
 you need xampp/lampp to run this project .
 create a db named `carrental`  and import the sql file in your myphpadmin
+the sql file is in the db directory
 
 ### 1. To download run 
   
@@ -16,6 +17,7 @@ create a db named `carrental`  and import the sql file in your myphpadmin
 ## Client
     sheikh@gmail.com
     Test@12345
+    
 ### 3. Screenshots
 <br/>
 
