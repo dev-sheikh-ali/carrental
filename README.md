@@ -19,11 +19,12 @@ the sql file is in the db directory
     sheikh@gmail.com
     Test@12345
   
-### 3.links
+### 3.URL links
 | Pages                         | URL                                  |
 | ------------------------------| -------------------------------------|
 | client page                   | http://localhost/carrental/index.php |
 | admin page                    | http://localhost/carrental/admin/    |
+
 
 ### 4. Screenshots
 <br/>
