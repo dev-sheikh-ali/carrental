@@ -25,10 +25,14 @@ the sql file is in the db directory
 | client page                   | http://localhost/carrental/index.php |
 | admin page                    | http://localhost/carrental/admin/    |
 
+<br/>
 
+| WARNING: this  code has some bugs! |
+| --- |
 ### 4. Screenshots
 <br/>
 
 <img align="right" alt="dash" src="assets/images/screenshot1.png" height="500"/>
 <img align="right" alt="dash" src="assets/images/screenshot2.png" height="500"/> 
+
 
